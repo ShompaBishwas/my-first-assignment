@@ -1,0 +1,32 @@
+
+.header-background {
+    background-image: linear-gradient(180deg, #070211 0%, #07021100 100%),url(../images/Banner\ Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: 90%;
+   /* margin-top: 30px;*/
+    margin-right: 160px;
+    margin-left: 0px;
+}
+
+.banner p{
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 500px;
+    color: #FFF;
+    font-size: 75px;
+    font-weight: 400px;
+    font-family: Merriweather;
+    font-style: normal;
+}
+.banner h1{
+    padding-top: 0px;
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 180px;
+    font-family: Merriweather;
+    font-weight: 900px;
+}
