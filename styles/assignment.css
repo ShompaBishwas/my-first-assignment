@@ -1,19 +1,18 @@
+#header-background {
+    background-image: linear-gradient(180deg, #070211 0%, #07021100 100%), url(../images/Banner\ Image.png);
+}
 
-.header-background {
-    background-image: linear-gradient(180deg, #070211 0%, #07021100 100%),url(../images/Banner\ Image.png);
+.header-back {
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
     background-size: 90%;
-   /* margin-top: 30px;*/
     margin-right: 160px;
-    margin-left: 0px;
 }
 
-.banner p{
+.banner p {
     text-align: center;
-    padding-bottom: 0px;
     padding-top: 500px;
     color: #FFF;
     font-size: 75px;
@@ -21,12 +20,164 @@
     font-family: Merriweather;
     font-style: normal;
 }
-.banner h1{
-    padding-top: 0px;
+
+.banner h1 {
     text-align: center;
-    align-items: center;
     color: #ffffff;
     font-size: 180px;
     font-family: Merriweather;
     font-weight: 900px;
+}
+
+.offer {
+    border-radius: 10px;
+    margin: 130px 0;
+    background-color: #FFF;
+    margin-top: 0px;
+}
+
+.section-off {
+    text-align: center;
+    color: #F00;
+    font-weight: 700;
+    font-family: Inter;
+    font-size: 130px;
+    font-style: normal;
+    margin-bottom: 0;
+
+}
+
+.red-color {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#new-image {
+    padding-left: 1600px;
+    padding-bottom: 50px;
+}
+
+#second-back {
+    background-image: linear-gradient(360deg, #070211 0%, #07021100 100%), url(../images/Vectorrr.png);
+    overflow: hidden;
+}
+
+.set-description {
+    color: #FFF;
+    text-align: left;
+    font-size: 65px;
+    font-family: Merriweather;
+    font-weight: 900px;
+    justify-content: space-between;
+    padding-top: 700px;
+    margin-left: 250px;
+    padding-left: 130px;
+    margin-right: 550px;
+}
+
+.set-description p {
+    font-style: normal;
+    font-family: Inter;
+    font-size: 35px;
+    padding-top: 0;
+    color: #ffffffcc;
+}
+
+.btn {
+    background-color: black;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 15px;
+    margin-left: 155px;
+}
+
+.red {
+    color: #F00;
+}
+
+.time-table {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 150px;
+    background-color: antiquewhite;
+    margin-right: 150px;
+    margin-left: 180px;
+}
+
+#join-button {
+    background-color: #F00;
+    border-radius: 8px;
+    border: 0px;
+    padding: 30px;
+    font-style: normal;
+    margin-top: 40px;
+    margin-bottom: 180px;
+
+}
+
+.coming-soon {
+    display: flex;
+    margin: 180px;
+}
+
+#soon {
+    border-radius: 100%;
+    padding: 100px;
+    border: 20px solid #F00;
+    width: 100%;
+    height: 90%;
+}
+
+.best-offer {
+    width: 50.0%;
+    font-size: 35px;
+    padding-top: 250px;
+    align-items: center;
+}
+
+.best-offer h1 {
+    font-size: 575px;
+    font-family: Merriweather;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.wish {
+    width: 33.3%;
+    padding-left: 400px;
+    padding-top: 300px;
+    font-size: 35px;
+    text-align: center;
+}
+.wish h2{
+    font-size: 575px;
+    font-family: Merriweather;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
