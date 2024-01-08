@@ -10,14 +10,12 @@
     background-size: 90%;
     margin-right: 160px;
 }
-.banner{
-    align-items: center;
-    padding: 50% 50%;
-}
+
 .banner p {
     text-align: center;
+    padding-top: 500px;
     color: #FFF;
-    font-size: 20px;
+    font-size: 75px;
     font-weight: 400px;
     font-family: Merriweather;
     font-style: normal;
@@ -26,7 +24,7 @@
 .banner h1 {
     text-align: center;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 180px;
     font-family: Merriweather;
     font-weight: 900px;
 }
@@ -151,7 +149,7 @@
 }
 
 .best-offer {
-    width: 45.0%;
+    width: 50.0%;
     font-size: 35px;
     padding-top: 250px;
     align-items: center;
@@ -196,7 +194,6 @@
     font-weight: 500;
     line-height: normal;
     margin-bottom: 0px;
-    padding-top: 300px;
 }
 
 .holiday-offer h1 {
@@ -204,16 +201,11 @@
     font-size: 95px;
     font-weight: 900;
     font-family: Merriweather;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 .holiday-offer p {
     font-family: Inter;
-    font-size: 25px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    margin-top: 0px;
-    color: #07021199;
-    line-height: 30px;
 }
