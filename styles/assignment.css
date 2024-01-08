@@ -10,12 +10,13 @@
     background-size: 90%;
     margin-right: 160px;
 }
-
+.banner{
+    align-items: center;
+}
 .banner p {
     text-align: center;
-    padding-top: 80px;
     color: #FFF;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400px;
     font-family: Merriweather;
     font-style: normal;
