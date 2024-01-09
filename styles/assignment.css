@@ -1,4 +1,4 @@
-
+/* Header Section */
 #header-background {
     background-image: linear-gradient(180deg, #070211 0%, #07021100 100%), url(../images/Banner\ Image.png);
 }
@@ -29,6 +29,9 @@
     font-family: Merriweather;
     font-weight: 900px;
 }
+
+/* Main Section */
+/* Main Section: Part -1*/
 
 .offer {
     border-radius: 10px;
@@ -130,6 +133,8 @@
     color: #F00;
 }
 
+/* Main Section: Part -2 */
+
 .opening-time-table {
     margin-left: 65px;
     margin-right: 35px;
@@ -153,6 +158,7 @@
     margin-top: 0px;
 
 }
+/* Main Section: Part -3*/
 
 .coming-soon {
     padding-left: 60px;
@@ -209,6 +215,8 @@
     height: 70px;
     width: 70px;
 }
+
+/* Main Section: Part -4*/
 
 .holiday-offer {
     text-align: center;
@@ -286,6 +294,8 @@
     padding-right: 95px;
 }
 
+/* Main Section: Part -5 */
+
 .product {
     display: block;
     text-align: left;
@@ -321,6 +331,7 @@
     margin-top: 10px;
     margin-bottom: 50px;
 }
+/* Hover Part*/
 
 .image-section {
     display: flex;
@@ -340,6 +351,8 @@
     filter: brightness(0.5);
     transition: 0.5s;
 }
+
+/* Main Section: Part -6*/
 .subscribe-image {
     text-align: center;
     margin-top: 80px;
@@ -400,6 +413,8 @@ input[type="submit"]{
     left: -5px;
     cursor: pointer;
 }
+
+/* Footer Section*/
 footer{
     background: black;
     gap: 20px;
